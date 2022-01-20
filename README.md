@@ -16,7 +16,7 @@
 ### Webdev
 <p>
  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="25px"/>
- <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-00000F?style=for-the-badge&logo=GraphQL&logoColor=white" height="25px"/>
+ <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-00000F?style=for-the-badge&logo=GraphQL&logoColor=ff69b4" height="25px"/>
  <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  height="25px"/>
