@@ -1,10 +1,5 @@
 ### Hi! I am Kacy Luker 👋
 
-<!--
-**Kacy-Luker/Kacy-Luker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🙋‍♂️ Visit **[my website](https://kacyluker.com)** to learn about me!
 
 ## 🛠️ Technologies and Tools I use:
