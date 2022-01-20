@@ -1,9 +1,9 @@
-### Hi! I am Kacy Luker 👋
+### 👋 Hi! I am Kacy Luker
 
 - 🙋‍♂️ Visit **[my website](https://kacyluker.com)** to learn about me!
 
 ## 🛠️ Technologies and Tools I use:
-### Languages and Frameworks
+### 👩‍💻 Languages and Frameworks
 <p>
  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="25px"/>
  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"/>
@@ -28,7 +28,7 @@
  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" height="25px"/>
 </p>
 
-### App dev
+### 📱 App dev
 <p>
  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="25px"/>
  <img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" height="25px"/>
@@ -44,7 +44,7 @@
  <img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white" height="25px"/>
 </p>
 
-### OS Experiance
+### 💻 OS Experiance
 <p>
  <img alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" height="25px"/>
  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="25px"/>
@@ -60,7 +60,7 @@
 </p>
 
 
-## My Stats
+## 📈 My Stats
 <p>
  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kacy-Luker&theme=blue-green"/>
 </p>
