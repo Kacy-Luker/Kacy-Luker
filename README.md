@@ -1,4 +1,4 @@
-### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi! I am Kacy Luker
+### Hi! I am Kacy Luker <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 Visit **[my website](https://kacyluker.com)** to learn about me!
 
 ## 🛠️ Technologies and Tools I use:
