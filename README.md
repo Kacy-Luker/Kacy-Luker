@@ -62,6 +62,6 @@
 
 ## My Stats
 <p>
- <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username={Kacy-Luker}&theme=blue-green"/>
- <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username={Kacy-Luker}&theme=blue-green"/>
+ <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kacy-Luker&theme=blue-green"/>
+ <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kacy-Luker&theme=blue-green"/>
 </p>
