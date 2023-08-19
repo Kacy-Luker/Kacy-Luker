@@ -1,5 +1,5 @@
 ### Hi! I am Kacy Luker <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-Visit **[my website](https://kacyluker.com)** to learn about me!
+Visit **[my website](https://www.kacyluker.com/)** to learn about me!
 
 ## 🛠️ Technologies and Tools I use:
 #### Languages and Frameworks
@@ -53,7 +53,7 @@ Visit **[my website](https://kacyluker.com)** to learn about me!
 
 ## ❤️ Let's connect:
 <p>
-<a href="https://kacyluker.com/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-KACYLUKER.COM-blueviolet?&style=for-the-badge&logo=About.me&logoColor=white" height="30px" /></a>
+<a href="https://www.kacyluker.com/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-KACYLUKER.COM-blueviolet?&style=for-the-badge&logo=About.me&logoColor=white" height="30px" /></a>
 <a href="https://www.linkedin.com/in/kacy-luker/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>
 <a href="https://www.instagram.com/kcjaneluker/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
 </p>
