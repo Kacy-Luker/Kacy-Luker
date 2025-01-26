@@ -48,7 +48,7 @@ Visit **[my website](https://www.kacyluker.com/)** to learn about me!
  <img alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" height="25px"/>
  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="25px"/>
  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="25px"/>
- <img alt="MacOs" src="(https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0&logoColor=white" height="25px"/>
+ <img alt="MacOs" src="(https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white" height="25px"/>
  <img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" height="25px"/>
 </p>
 
